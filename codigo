@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head> 
+    
+    <title>pagina </title>
+
+
+</head>
+
+<body style="background-color:rgb(46, 53, 150);"> 
+
+   <center><h1>hola mundo</h1></center>
+
+   <center> <img src="2049.jpg" alt="2049" width="400" height="453"> </center>
